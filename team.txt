@@ -1,0 +1,9 @@
+Equipo de desarrrollo:
+
+Integrantes:
+-Luis Fernando Sarmiento Sanchez - 55224511
+-Handerson Fabian Blanco Godoy - 55224512
+-Juan Nicolas Jimenez Tamayo - 55224519
+
+Proyecto: 
+Aplicaciones de perfiles del equipo
